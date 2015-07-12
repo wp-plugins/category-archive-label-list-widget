@@ -30,12 +30,12 @@ With this plugin you can easily set up sidebar list for your categories and arch
 
 == Screenshots ==
 
-1. `/assets/admin_screen.png`
-2. `/assets/front_end_screen.png`
-3. `/assets/admin_category_screen.png`
-4. `/assets/front_end_category_screen.png`
-5. `/assets/admin_full_screen.png`
-6. `/assets/front_end_full_screen.png`
+1. `/assets/screenshot-1.png`
+2. `/assets/screenshot-2.png`
+3. `/assets/screenshot-3.png`
+4. `/assets/screenshot-4.png`
+5. `/assets/screenshot-5.png`
+6. `/assets/screenshot-6.png`
 
 == Changelog ==
 
