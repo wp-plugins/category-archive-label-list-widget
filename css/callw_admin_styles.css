@@ -1,0 +1,54 @@
+.callw-widget-options .form-line {
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+.callw-widget-options .post-count-order, .callw-widget-options .post-sort {
+	padding-bottom: 5px;
+	overflow: hidden;
+}
+
+.callw-widget-options .form-line.margin-bottom {
+	margin-bottom: 25px;
+}
+
+.callw-widget-options .form-label {
+	width: 34%;
+	padding-top: 5px;
+	float: left;
+}
+
+.callw-widget-options .form-field {
+	width: 65%;
+	float: right;
+}
+
+.callw-widget-options .form-field input[type="text"], .callw-widget-options .form-field select {
+	width: 100%;
+	margin: 0;
+}
+
+.callw-widget-options .form-field input[type="checkbox"] {
+	margin-top: 7px;
+}
+
+.callw-widget-options .form-field .field-sm {
+	width: 30%;
+}
+
+
+.styling-options-title {
+	font-weight: bold;
+	margin: 30px 0 10px;
+}
+
+
+
+
+
+@media (max-width: 780px) {
+	.callw-widget-options .form-label, .callw-widget-options .form-field {
+		width: 100%;
+		float: none;
+	}
+}

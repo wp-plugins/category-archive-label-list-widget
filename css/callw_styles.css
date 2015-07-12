@@ -1,0 +1,44 @@
+.widget .callw li {
+	list-style: none;
+	padding: 7px 0;
+	position: relative;
+	z-index: 10;
+	overflow: hidden;
+}
+
+
+.widget .callw li:first-child {
+	padding-top: 1px;
+}
+
+
+.widget .callw li:last-child {
+	padding-bottom: 0;
+}
+
+
+.widget .callw a {
+	display: block;
+}
+
+
+.widget .callw .badge {
+	background-color: #777;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color: #fff;
+	display: inline-block;
+	float: right;
+	font-size: 12px;
+	font-weight: bold;
+	min-width: 10px;
+	margin: -1px 0 0;
+	padding: 5px 13px;
+	position: relative;
+	z-index: 11;
+	text-align: center;
+	vertical-align: baseline;
+	white-space: nowrap;
+}
