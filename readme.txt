@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: w3b_designer
-Tags: sidebar, list, categories, archive
+Tags: sidebar, list, categories, archive, widget, plugin
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 1.0
