@@ -29,13 +29,13 @@ With this plugin you can easily set up sidebar list for your categories and arch
 
 
 == Screenshots ==
+1. Admin page for archive list
+2. Front end page with archive list
+3. Admin page for categories list
+4. Front end page with categories list
+5. Admin page with styling options
+6. Front end page with own styles
 
-1. `/assets/screenshot-1.png`
-2. `/assets/screenshot-2.png`
-3. `/assets/screenshot-3.png`
-4. `/assets/screenshot-4.png`
-5. `/assets/screenshot-5.png`
-6. `/assets/screenshot-6.png`
 
 == Changelog ==
 
