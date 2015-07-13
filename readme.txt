@@ -29,12 +29,12 @@ With this plugin you can easily set up sidebar list for your categories and arch
 
 
 == Screenshots ==
-Admin page for archive list
-Front end page with archive list
-Admin page for categories list
-Front end page with categories list
-Admin page with styling options
-Front end page with own styles
+1. Admin page for archive list
+2. Front end page with archive list
+3. Admin page for categories list
+4. Front end page with categories list
+5. Admin page with styling options
+6. Front end page with own styles
 
 
 == Changelog ==
